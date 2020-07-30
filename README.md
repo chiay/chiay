@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Yi Xuan, a Software Engineer with a Master of Engineering degree in Computer Science 💻.
 
-[![outlook](https://img.shields.io/badge/Outlook-white?style=flat&logo=microsoft&color=666666&logoColor=white&link=mailto:yixuan_c0206@hotmail.com)](mailto:yixuan_c0206@hotmail.com)
+[![google](https://img.shields.io/badge/Google-white?style=flat&logo=google&color=DB4437&logoColor=white)](mailto:chiay@oregonstate.edu)
+[![outlook](https://img.shields.io/badge/Outlook-white?style=flat&logo=microsoft&color=0078d4&logoColor=white&link=mailto:yixuan_c0206@hotmail.com)](mailto:yixuan_c0206@hotmail.com)
 [![linkedin](https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&color=0e76a8&logoColor=white&link=https://www.linkedin.com/in/yi-xuan-chia-b1067b139)](https://www.linkedin.com/in/yi-xuan-chia-b1067b139)
 [![github](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&color=181717&logoColor=white&link=https://github.com/chiay)](https://github.com/chiay)
 
@@ -20,7 +21,8 @@
 ![git](https://img.shields.io/badge/Git-white?style=flat&logo=git&color=f05032&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&color=4479a1&logoColor=white)
 ![latex](https://img.shields.io/badge/LaTeX-white?style=flat&logo=latex&color=008080&logoColor=white)
-
+![windows](https://img.shields.io/badge/Windows-white?style=flat&logo=windows&color=0078d6&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&color=fcc624&logoColor=white)
 
 <!--
 **chiay/chiay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
