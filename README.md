@@ -34,6 +34,8 @@ I recently graduated from Oregon State University, earning a Master of Engineeri
 - 📫 How to reach me: Find my emails from the badges above
 - ⚡ Fun fact: Travel is my ultimate goal of life. Hopefully I can leave track all over the world one day
 
+<img src="https://github-readme-stats.vercel.app/api?username=chiay&&show_icons=true&title_color=40514e&icon_color=30e3ca&text_color=2f89fc&bg_color=f5f5f5&hide=contribs,prs" />
+
 #### Be happy, smile, and live a simple life 😁
 
 <!--
