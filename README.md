@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Yi Xuan, a Software Engineer with a Master of Engineering degree in Computer Science 💻.
+### Hi there 👋, I'm Yi Xuan.
+
+I recently graduated from Oregon State University, earning a Master of Engineering degree in Computer Science 💻. I am passionate about software and web application development, as well as open source.
 
 [![google](https://img.shields.io/badge/Google-white?style=flat&logo=google&color=DB4437&logoColor=white)](mailto:chiay@oregonstate.edu)
 [![outlook](https://img.shields.io/badge/Outlook-white?style=flat&logo=microsoft&color=0078d4&logoColor=white&link=mailto:yixuan_c0206@hotmail.com)](mailto:yixuan_c0206@hotmail.com)
