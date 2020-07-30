@@ -32,7 +32,9 @@ I recently graduated from Oregon State University, earning a Master of Engineeri
 - 👯 I’m looking to collaborate on any projects that sound interesting and fun
 - 💬 Ask me about portable audio devices like earphones/headphones, dac, amps, etc.
 - 📫 How to reach me: Find my emails from the badges above
-- ⚡ Fun fact: Travel is my ultimate goal of life. Hopefully I can leave track all over the world one day.
+- ⚡ Fun fact: Travel is my ultimate goal of life. Hopefully I can leave track all over the world one day
+
+#### Be happy, smile, and live a simple life 😁
 
 <!--
 **chiay/chiay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
