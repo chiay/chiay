@@ -17,7 +17,7 @@ I recently graduated from Oregon State University, earning a Master of Engineeri
 ![css3](https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&color=1275b6&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&color=f7df1e&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-white?style=flat&logo=php&color=777bb4&logoColor=white)
-![react](https://img.shields.io/badge/React%2fReactNative-white?style=flat&logo=react&color=61dafb&logoColor=white)
+![react](https://img.shields.io/badge/React%2fReact%20Native-white?style=flat&logo=react&color=61dafb&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&color=47a248&logoColor=white)
 ![json](https://img.shields.io/badge/JSON-white?style=flat&logo=json&color=000000&logoColor=white)
 ![git](https://img.shields.io/badge/Git-white?style=flat&logo=git&color=f05032&logoColor=white)
