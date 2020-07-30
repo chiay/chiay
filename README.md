@@ -26,6 +26,14 @@ I recently graduated from Oregon State University, earning a Master of Engineeri
 ![windows](https://img.shields.io/badge/Windows-white?style=flat&logo=windows&color=0078d6&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&color=fcc624&logoColor=white)
 
+
+- 🔭 I’m currently working on by personal website using React
+- 🌱 I’m currently learning new technologies like Vue.js, JWT, etc.
+- 👯 I’m looking to collaborate on any projects that sound interesting and fun
+- 💬 Ask me about portable audio devices like earphones/headphones, dac, amps, etc.
+- 📫 How to reach me: Find my emails from the badges above
+- ⚡ Fun fact: Travel is my ultimate goal of life. Hopefully I can leave track all over the world one day.
+
 <!--
 **chiay/chiay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
