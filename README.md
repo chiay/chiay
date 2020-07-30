@@ -26,7 +26,7 @@ I recently graduated from Oregon State University, earning a Master of Engineeri
 ![windows](https://img.shields.io/badge/Windows-white?style=flat&logo=windows&color=0078d6&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&color=fcc624&logoColor=white)
 
-
+- 👓 I'm currently looking for an interesting job that can further develope my abilities in the CS field
 - 🔭 I’m currently working on by personal website using React
 - 🌱 I’m currently learning new technologies like Vue.js, JWT, etc.
 - 👯 I’m looking to collaborate on any projects that sound interesting and fun
