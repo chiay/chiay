@@ -27,8 +27,8 @@ I recently graduated from Oregon State University, earning a Master of Engineeri
 ![linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&color=fcc624&logoColor=white)
 
 - 👓 I'm currently looking for an interesting job that can further develope my abilities in the CS field
-- 🔭 I’m currently working on by personal website using React
-- 🌱 I’m currently learning new technologies like Vue.js, JWT, etc.
+- 🔭 I’m currently working on by personal website
+- 🌱 I’m currently learning new technologies like Vue.js, JWT, SCSS, etc.
 - 👯 I’m looking to collaborate on any projects that sound interesting and fun
 - 💬 Ask me about portable audio devices like earphones/headphones, dac, amps, etc.
 - 📫 How to reach me: Find my emails from the badges above
